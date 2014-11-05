@@ -1,4 +1,0 @@
-arduino
-=======
-
-Arduino szakkör anyagok.
